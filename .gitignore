@@ -1,2 +1,8 @@
 # env
 .env
+
+# MongoDB Connection String
+MONGO_URI=mongodb+srv://fokundemcom_db_user:fokundem653%40@cluster0.crj4xly.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+# JSON Web Token Secret Key
+JWT_SECRET=thisisalongandveryrandomsecretkeyforjwt
